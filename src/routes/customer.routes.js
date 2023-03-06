@@ -8,7 +8,7 @@ router.post('/get-customer',async(req,res)=>{
         const Customer = await Customer_Model.find({username});
         res.json(Customer);
     }catch(e){
-        
+        throw new Error(e);
     }
 });
 module.exports = router;
