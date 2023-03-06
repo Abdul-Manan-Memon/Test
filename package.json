@@ -1,0 +1,19 @@
+{
+  "name": "Test",
+  "main": "src/app.js",
+  "version": "1.0.0",
+  "author": "Abdul Manan",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "generate-schema": "^2.6.0",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}

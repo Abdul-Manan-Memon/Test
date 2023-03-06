@@ -1,0 +1,25 @@
+{
+    "username": "fmiller",
+    "name": "Elizabeth Ray",
+    "address": "9286 Bethany Glens\nVasqueztown, CO 22939",
+    "birthdate": {
+      "$date": {
+        "$numberLong": "226117231000"
+      }
+    },
+    "email": "arroyocolton@gmail.com",
+    "active": true,
+    "accounts": [
+      371138,
+      324287,
+      276528,
+      332179,
+      422649,
+      387979
+    ],
+    "tier_and_details": [
+      {
+        
+      }
+    ]
+}
